@@ -1,4 +1,4 @@
-# Portifolio de Power BI 📊
+# Portifólio de Power BI 📊
 
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
