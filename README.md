@@ -1,6 +1,6 @@
-# Portifólio de Power BI 📊
+# Balança Comercial no Power BI 📊
 
-Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
+Dashboard elaborado com foco em estudos na ferramenta Power BI, visando construir um projetos com cenários reais do dia a dia:
 
    ### Dashboard da Balança Comercial 
 
@@ -12,3 +12,6 @@ Acesse o dashboard completo [neste link](https://lnkd.in/dx7TsP4h)
 
 #### Estrutura da base de dados!
 
+- Base de dados de importação e Exportação dos anos de 2019 a 2020;
+- Modelagem de Dados ultilizando as tabelas fato e dimensões;
+- Ultilizado linguagem DAX para criar medidas com parâmetros, valores e funções.
